@@ -11,6 +11,8 @@ def generar_json_csv():
     # --- PROCESAR CSV (SUDAMÉRICA) ---
     print("Procesando CSV...")
     df_sudamerica = pd.read_csv('../data/fuente_csv_sudamerica.csv')
+    # str.capitalize() convierte la primera letra de cada palabra a mayúscula, el resto a minúscula
+    df_sudamerica.columns = df_sudamerica.columns.str.capitalize()
     # Convertimos el DataFrame directamente a una lista de diccionarios
     jugadores_csv = df_sudamerica.to_dict(orient='records')
     lista_jugadores.extend(jugadores_csv)
