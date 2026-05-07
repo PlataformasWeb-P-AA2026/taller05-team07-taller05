@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # pycache
-__pycache__/
+./formato-json/__pycache__/
