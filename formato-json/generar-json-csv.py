@@ -24,7 +24,7 @@ def generar_json_csv():
     }
 
     # --- GUARDAR ARCHIVO ---
-    with open('csv_data.json', 'w', encoding='utf-8') as f:
+    with open('./data/csv_data.json', 'w', encoding='utf-8') as f:
         json.dump(resultado_couch, f, ensure_ascii=False, indent=4)
 
     print(f"Éxito: Se han procesado {len(lista_jugadores)} registros.")

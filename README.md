@@ -1,5 +1,7 @@
 # taller05
 
+## Integrantes: Byron Alvarez - Ronald Calderon
+
 ## Integración de datos y uso de CouchDB
 
 Integrar datos de múltiples fuentes (HTML, CSV, PDF), transformarlos en un formato común y almacenarlos en CouchDB para su posterior consulta mediante vistas, desde vite

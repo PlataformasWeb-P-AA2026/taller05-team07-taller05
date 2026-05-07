@@ -1,0 +1,5 @@
+user = "admin"
+password = "admin"
+host = "localhost"
+port = "5984"
+database = "jugadores"

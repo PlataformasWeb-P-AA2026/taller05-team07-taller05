@@ -29,7 +29,7 @@ def generar_json_desde_html():
     }
 
     # --- GUARDAR ARCHIVO ---
-    with open('html_data.json', 'w', encoding='utf-8') as f:
+    with open('./data/html_data.json', 'w', encoding='utf-8') as f:
         json.dump(resultado_couch, f, ensure_ascii=False, indent=4)
 
     print(f"Éxito: Se han procesado {len(lista_jugadores)} registros.")

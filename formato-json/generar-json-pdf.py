@@ -43,7 +43,7 @@ def generar_json_pdf():
     }
 
     # --- 5. GUARDAR ARCHIVO ---
-    with open('pdf_data.json', 'w', encoding='utf-8') as f:
+    with open('./data/pdf_data.json', 'w', encoding='utf-8') as f:
         json.dump(resultado_couch, f, ensure_ascii=False, indent=4)
     
     print(f"Éxito: Se han procesado {len(lista_jugadores)} registros.")

@@ -26,10 +26,10 @@ def unificar_jsons(directorio):
     return resultado_final
 
 if __name__ == "__main__":
-    directorio = './'  # Cambia esto al directorio donde están tus JSONs
+    directorio = './data'  # Cambia esto al directorio donde están tus JSONs
     resultado = unificar_jsons(directorio)
     
-    with open('mundial_data.json', 'w', encoding='utf-8') as f:
+    with open('./data/mundial_2026.json', 'w', encoding='utf-8') as f:
         json.dump(resultado, f, ensure_ascii=False, indent=4)
     
-    print("JSON unificado creado como 'mundial_data.json'")
+    print("JSON unificado creado como 'mundial_2026.json'")
