@@ -1,20 +1,118 @@
+:root {
+    --utpl-azul: #003366;
+    --utpl-amarillo: #f2a900;
+    --utpl-gris: #f4f4f4;
+    --texto: #333;
+}
+
 body {
-  font-family: Arial, sans-serif;
-  margin: 40px;
-  background-color: #f5f5f5;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--utpl-gris);
+    color: var(--texto);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
+/* Encabezado */
+header {
+    background-color: var(--utpl-azul);
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 5px solid var(--utpl-amarillo);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Contenedor Principal */
 #app {
-  background: white;
-  padding: 24px;
-  border-radius: 10px;
+    flex: 1;
+    max-width: 1000px;
+    margin: 20px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
-  margin-bottom: 20px;
+/* Controles de filtrado */
+.controles {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.control-group {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: var(--utpl-azul);
+}
+
+input,
+select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+input:focus,
+select:focus {
+    outline: none;
+    border-color: var(--utpl-azul);
+    box-shadow: 0 0 5px rgba(0, 51, 102, 0.2);
+}
+
+/* Estilo de la Tabla (DataTables) */
+#tabla-posts {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#tabla-posts thead {
+    background-color: var(--utpl-azul);
+    color: white;
+}
+
+#tabla-posts th {
+    padding: 12px;
+    text-align: left;
+}
+
+/* Pie de página */
+footer {
+    background-color: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: auto;
+    font-size: 0.9rem;
+}
+
+footer p {
+    margin: 5px 0;
 }
 
 .error {
-  color: red;
-  font-weight: bold;
+    color: #d32f2f;
+    background: #ffcdd2;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
 }

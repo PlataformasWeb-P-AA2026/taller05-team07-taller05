@@ -1,21 +1,48 @@
 <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>vite-jquery-datatable</title>
-  </head>
-  <body>
-    <select id="vista">
-      <option value="por_club">Por club</option>
-      <option value="por_partidos">Por partidos</option>
-      <option value="por_goles">Por goles</option>
-    </select>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Dashboard Estadístico - UTPL</title>
+    </head>
+    <body>
+        <header>
+            <h1>Gestión de Datos Deportivos</h1>
+            <p>Sistema de Visualización Universitaria</p>
+        </header>
 
-    <input id="filtro" type="text" placeholder="Filtrar por criterio">
+        <main id="app">
+            <section class="controles">
+                <div class="control-group">
+                    <label for="vista">Seleccionar Vista:</label>
+                    <select id="vista">
+                        <option value="por_club">Por club</option>
+                        <option value="por_partidos">Por partidos</option>
+                        <option value="por_goles">Por goles</option>
+                    </select>
+                </div>
 
-    <table id="tabla-posts"></table>
-    <script type="module" src="/src/main.js"></script>
-  </body>
+                <div class="control-group">
+                    <label for="filtro">Búsqueda rápida:</label>
+                    <input
+                        id="filtro"
+                        type="text"
+                        placeholder="Filtrar por criterio..."
+                    />
+                </div>
+            </section>
+
+            <div class="tabla-contenedor">
+                <table id="tabla-posts" class="display"></table>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 Universidad Técnica Particular de Loja - UTPL</p>
+            <p>Decide ser más</p>
+        </footer>
+
+        <script type="module" src="/src/main.js"></script>
+    </body>
 </html>
