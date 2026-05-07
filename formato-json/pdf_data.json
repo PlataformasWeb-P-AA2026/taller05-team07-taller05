@@ -1,0 +1,284 @@
+{
+    "docs": [
+        {
+            "Nombre": "EEUU_Jugador_0",
+            "Seleccion": "EEUU",
+            "Posicion": "Mediocampista",
+            "Edad": "30",
+            "Goles": "40"
+        },
+        {
+            "Nombre": "EEUU_Jugador_1",
+            "Seleccion": "EEUU",
+            "Posicion": "Defensa",
+            "Edad": "35",
+            "Goles": "47"
+        },
+        {
+            "Nombre": "EEUU_Jugador_2",
+            "Seleccion": "EEUU",
+            "Posicion": "Defensa",
+            "Edad": "25",
+            "Goles": "17"
+        },
+        {
+            "Nombre": "EEUU_Jugador_3",
+            "Seleccion": "EEUU",
+            "Posicion": "Delantero",
+            "Edad": "24",
+            "Goles": "22"
+        },
+        {
+            "Nombre": "EEUU_Jugador_4",
+            "Seleccion": "EEUU",
+            "Posicion": "Mediocampista",
+            "Edad": "32",
+            "Goles": "5"
+        },
+        {
+            "Nombre": "EEUU_Jugador_5",
+            "Seleccion": "EEUU",
+            "Posicion": "Mediocampista",
+            "Edad": "30",
+            "Goles": "43"
+        },
+        {
+            "Nombre": "EEUU_Jugador_6",
+            "Seleccion": "EEUU",
+            "Posicion": "Portero",
+            "Edad": "32",
+            "Goles": "40"
+        },
+        {
+            "Nombre": "EEUU_Jugador_7",
+            "Seleccion": "EEUU",
+            "Posicion": "Delantero",
+            "Edad": "25",
+            "Goles": "43"
+        },
+        {
+            "Nombre": "EEUU_Jugador_8",
+            "Seleccion": "EEUU",
+            "Posicion": "Defensa",
+            "Edad": "18",
+            "Goles": "50"
+        },
+        {
+            "Nombre": "EEUU_Jugador_9",
+            "Seleccion": "EEUU",
+            "Posicion": "Mediocampista",
+            "Edad": "29",
+            "Goles": "44"
+        },
+        {
+            "Nombre": "México_Jugador_0",
+            "Seleccion": "México",
+            "Posicion": "Defensa",
+            "Edad": "23",
+            "Goles": "23"
+        },
+        {
+            "Nombre": "México_Jugador_1",
+            "Seleccion": "México",
+            "Posicion": "Portero",
+            "Edad": "33",
+            "Goles": "20"
+        },
+        {
+            "Nombre": "México_Jugador_2",
+            "Seleccion": "México",
+            "Posicion": "Portero",
+            "Edad": "31",
+            "Goles": "1"
+        },
+        {
+            "Nombre": "México_Jugador_3",
+            "Seleccion": "México",
+            "Posicion": "Portero",
+            "Edad": "28",
+            "Goles": "16"
+        },
+        {
+            "Nombre": "México_Jugador_4",
+            "Seleccion": "México",
+            "Posicion": "Portero",
+            "Edad": "20",
+            "Goles": "20"
+        },
+        {
+            "Nombre": "México_Jugador_5",
+            "Seleccion": "México",
+            "Posicion": "Defensa",
+            "Edad": "20",
+            "Goles": "36"
+        },
+        {
+            "Nombre": "México_Jugador_6",
+            "Seleccion": "México",
+            "Posicion": "Mediocampista",
+            "Edad": "24",
+            "Goles": "8"
+        },
+        {
+            "Nombre": "México_Jugador_7",
+            "Seleccion": "México",
+            "Posicion": "Defensa",
+            "Edad": "27",
+            "Goles": "36"
+        },
+        {
+            "Nombre": "México_Jugador_8",
+            "Seleccion": "México",
+            "Posicion": "Delantero",
+            "Edad": "21",
+            "Goles": "7"
+        },
+        {
+            "Nombre": "México_Jugador_9",
+            "Seleccion": "México",
+            "Posicion": "Mediocampista",
+            "Edad": "18",
+            "Goles": "17"
+        },
+        {
+            "Nombre": "Canada_Jugador_0",
+            "Seleccion": "Canada",
+            "Posicion": "Mediocampista",
+            "Edad": "32",
+            "Goles": "43"
+        },
+        {
+            "Nombre": "Canada_Jugador_1",
+            "Seleccion": "Canada",
+            "Posicion": "Defensa",
+            "Edad": "32",
+            "Goles": "20"
+        },
+        {
+            "Nombre": "Canada_Jugador_2",
+            "Seleccion": "Canada",
+            "Posicion": "Delantero",
+            "Edad": "26",
+            "Goles": "42"
+        },
+        {
+            "Nombre": "Canada_Jugador_3",
+            "Seleccion": "Canada",
+            "Posicion": "Defensa",
+            "Edad": "32",
+            "Goles": "39"
+        },
+        {
+            "Nombre": "Canada_Jugador_4",
+            "Seleccion": "Canada",
+            "Posicion": "Defensa",
+            "Edad": "18",
+            "Goles": "21"
+        },
+        {
+            "Nombre": "Canada_Jugador_5",
+            "Seleccion": "Canada",
+            "Posicion": "Mediocampista",
+            "Edad": "27",
+            "Goles": "3"
+        },
+        {
+            "Nombre": "Canada_Jugador_6",
+            "Seleccion": "Canada",
+            "Posicion": "Delantero",
+            "Edad": "32",
+            "Goles": "33"
+        },
+        {
+            "Nombre": "Canada_Jugador_7",
+            "Seleccion": "Canada",
+            "Posicion": "Defensa",
+            "Edad": "25",
+            "Goles": "33"
+        },
+        {
+            "Nombre": "Canada_Jugador_8",
+            "Seleccion": "Canada",
+            "Posicion": "Mediocampista",
+            "Edad": "33",
+            "Goles": "32"
+        },
+        {
+            "Nombre": "Canada_Jugador_9",
+            "Seleccion": "Canada",
+            "Posicion": "Mediocampista",
+            "Edad": "29",
+            "Goles": "0"
+        },
+        {
+            "Nombre": "Iran_Jugador_0",
+            "Seleccion": "Iran",
+            "Posicion": "Mediocampista",
+            "Edad": "35",
+            "Goles": "49"
+        },
+        {
+            "Nombre": "Iran_Jugador_1",
+            "Seleccion": "Iran",
+            "Posicion": "Mediocampista",
+            "Edad": "32",
+            "Goles": "12"
+        },
+        {
+            "Nombre": "Iran_Jugador_2",
+            "Seleccion": "Iran",
+            "Posicion": "Mediocampista",
+            "Edad": "20",
+            "Goles": "35"
+        },
+        {
+            "Nombre": "Iran_Jugador_3",
+            "Seleccion": "Iran",
+            "Posicion": "Delantero",
+            "Edad": "32",
+            "Goles": "28"
+        },
+        {
+            "Nombre": "Iran_Jugador_4",
+            "Seleccion": "Iran",
+            "Posicion": "Delantero",
+            "Edad": "25",
+            "Goles": "14"
+        },
+        {
+            "Nombre": "Iran_Jugador_5",
+            "Seleccion": "Iran",
+            "Posicion": "Portero",
+            "Edad": "24",
+            "Goles": "8"
+        },
+        {
+            "Nombre": "Iran_Jugador_6",
+            "Seleccion": "Iran",
+            "Posicion": "Mediocampista",
+            "Edad": "30",
+            "Goles": "47"
+        },
+        {
+            "Nombre": "Iran_Jugador_7",
+            "Seleccion": "Iran",
+            "Posicion": "Defensa",
+            "Edad": "24",
+            "Goles": "41"
+        },
+        {
+            "Nombre": "Iran_Jugador_8",
+            "Seleccion": "Iran",
+            "Posicion": "Delantero",
+            "Edad": "27",
+            "Goles": "28"
+        },
+        {
+            "Nombre": "Iran_Jugador_9",
+            "Seleccion": "Iran",
+            "Posicion": "Defensa",
+            "Edad": "32",
+            "Goles": "29"
+        }
+    ]
+}
