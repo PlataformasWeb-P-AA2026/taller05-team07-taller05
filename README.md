@@ -41,6 +41,14 @@ function(doc) {
 ```
 3. Usar la aplicación de vite compartida de la carpeta fronted, agregar titulos y pie de página, además usar los colore de la universidad.
 
+## Evidencias
+### Datos cargados en CouchDB
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/fd9c4171-7582-4822-b251-e1f068951b72" />
+
+### Frontend funcionando
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07f9c79d-d5e7-497c-8b5b-55698415bd2e" />
+
+
 ## Entregables
 
 * Script(s) replicables de la carpeta formato-json
