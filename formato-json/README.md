@@ -13,5 +13,8 @@ pip install pandas beautifulsoup4 pdfplumber
 ```
 
 *   **pandas**: Para el CSV.
+  * Para poder sacar la información del documento CSV usamos las librerias de pandas y json, para la conversion y uso de COUCHDB usamos "docs": lista_jugadores para poder hacer la conexion, al finalizar para poder guardar el archivo convertido usamos with open que nos sirve par atrabajar de forma correcta un archivo en donde se garantiza el cierre del bloque aun que puedan llegar a existir errores
 *   **beautifulsoup4**: Para el HTML.
+  * Para poder sacar la informacion del documento HTML usamos las libreias de BeautifulSoup y json, para la conversion y uso de COUCHDB usamos "docs": lista_jugadores para poder hacer la conexion, al finalizar para poder guardar el archivo convertido usamos with open que nos sirve par atrabajar de forma correcta un archivo en donde se garantiza el cierre del bloque aun que puedan llegar a existir errores
 *   **pdfplumber**: Para extraer tablas de PDFs.
+  * Para poder sacar la informacion del documento PDF usamos las libreias de pdfplumber y json, para la conversion lo hacemos por paginas usa la primera fila como encabezado y se leen las demas filas, al momento de pasar la pagina y que no exista problemas de encabezado usamos zip() para combinar los headers con los valores de la fila, finalmente para la conversion y uso de COUCHDB usamos "docs": lista_jugadores para poder hacer la conexion, al finalizar para poder guardar el archivo convertido usamos with open que nos sirve par atrabajar de forma correcta un archivo en donde se garantiza el cierre del bloque aun que puedan llegar a existir errores
