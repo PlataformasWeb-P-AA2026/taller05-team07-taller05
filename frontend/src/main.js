@@ -37,10 +37,10 @@ async function cargarDatos(vista = "por_club", filtro = "") {
     const datos = json.rows.map(row => {
       return {
         criterio: row.key,
-        nombre: row.value.nombre,
-        seleccion: row.value.seleccion,
-        posicion: row.value.posicion,
-        edad: row.value.edad
+        nombre: row.value.Nombre,
+        seleccion: row.value.Seleccion,
+        posicion: row.value.Posicion,
+        edad: row.value.Edad
       };
     });
 
