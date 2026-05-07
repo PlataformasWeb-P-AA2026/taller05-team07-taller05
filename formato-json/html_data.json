@@ -1,0 +1,284 @@
+{
+    "docs": [
+        {
+            "Nombre": "España_Jugador_0",
+            "Seleccion": "España",
+            "Posicion": "Portero",
+            "Edad": "28",
+            "Club": "Real Madrid"
+        },
+        {
+            "Nombre": "España_Jugador_1",
+            "Seleccion": "España",
+            "Posicion": "Portero",
+            "Edad": "26",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "España_Jugador_2",
+            "Seleccion": "España",
+            "Posicion": "Defensa",
+            "Edad": "20",
+            "Club": "Inter"
+        },
+        {
+            "Nombre": "España_Jugador_3",
+            "Seleccion": "España",
+            "Posicion": "Delantero",
+            "Edad": "33",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "España_Jugador_4",
+            "Seleccion": "España",
+            "Posicion": "Mediocampista",
+            "Edad": "22",
+            "Club": "PSG"
+        },
+        {
+            "Nombre": "España_Jugador_5",
+            "Seleccion": "España",
+            "Posicion": "Delantero",
+            "Edad": "24",
+            "Club": "Inter"
+        },
+        {
+            "Nombre": "España_Jugador_6",
+            "Seleccion": "España",
+            "Posicion": "Mediocampista",
+            "Edad": "18",
+            "Club": "PSG"
+        },
+        {
+            "Nombre": "España_Jugador_7",
+            "Seleccion": "España",
+            "Posicion": "Defensa",
+            "Edad": "18",
+            "Club": "Real Madrid"
+        },
+        {
+            "Nombre": "España_Jugador_8",
+            "Seleccion": "España",
+            "Posicion": "Defensa",
+            "Edad": "21",
+            "Club": "Barcelona"
+        },
+        {
+            "Nombre": "España_Jugador_9",
+            "Seleccion": "España",
+            "Posicion": "Delantero",
+            "Edad": "26",
+            "Club": "Barcelona"
+        },
+        {
+            "Nombre": "Francia_Jugador_0",
+            "Seleccion": "Francia",
+            "Posicion": "Defensa",
+            "Edad": "20",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "Francia_Jugador_1",
+            "Seleccion": "Francia",
+            "Posicion": "Delantero",
+            "Edad": "34",
+            "Club": "Real Madrid"
+        },
+        {
+            "Nombre": "Francia_Jugador_2",
+            "Seleccion": "Francia",
+            "Posicion": "Delantero",
+            "Edad": "21",
+            "Club": "Bayern"
+        },
+        {
+            "Nombre": "Francia_Jugador_3",
+            "Seleccion": "Francia",
+            "Posicion": "Delantero",
+            "Edad": "18",
+            "Club": "Real Madrid"
+        },
+        {
+            "Nombre": "Francia_Jugador_4",
+            "Seleccion": "Francia",
+            "Posicion": "Portero",
+            "Edad": "32",
+            "Club": "Inter"
+        },
+        {
+            "Nombre": "Francia_Jugador_5",
+            "Seleccion": "Francia",
+            "Posicion": "Delantero",
+            "Edad": "31",
+            "Club": "Barcelona"
+        },
+        {
+            "Nombre": "Francia_Jugador_6",
+            "Seleccion": "Francia",
+            "Posicion": "Defensa",
+            "Edad": "32",
+            "Club": "PSG"
+        },
+        {
+            "Nombre": "Francia_Jugador_7",
+            "Seleccion": "Francia",
+            "Posicion": "Delantero",
+            "Edad": "22",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "Francia_Jugador_8",
+            "Seleccion": "Francia",
+            "Posicion": "Defensa",
+            "Edad": "26",
+            "Club": "Real Madrid"
+        },
+        {
+            "Nombre": "Francia_Jugador_9",
+            "Seleccion": "Francia",
+            "Posicion": "Defensa",
+            "Edad": "34",
+            "Club": "Barcelona"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_0",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Delantero",
+            "Edad": "20",
+            "Club": "PSG"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_1",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Portero",
+            "Edad": "26",
+            "Club": "Bayern"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_2",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Portero",
+            "Edad": "26",
+            "Club": "Bayern"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_3",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Portero",
+            "Edad": "20",
+            "Club": "Barcelona"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_4",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Portero",
+            "Edad": "20",
+            "Club": "PSG"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_5",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Portero",
+            "Edad": "18",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_6",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Defensa",
+            "Edad": "28",
+            "Club": "Real Madrid"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_7",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Defensa",
+            "Edad": "34",
+            "Club": "Barcelona"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_8",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Defensa",
+            "Edad": "19",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "Inglaterra_Jugador_9",
+            "Seleccion": "Inglaterra",
+            "Posicion": "Defensa",
+            "Edad": "19",
+            "Club": "Inter"
+        },
+        {
+            "Nombre": "Holanda_Jugador_0",
+            "Seleccion": "Holanda",
+            "Posicion": "Portero",
+            "Edad": "29",
+            "Club": "Inter"
+        },
+        {
+            "Nombre": "Holanda_Jugador_1",
+            "Seleccion": "Holanda",
+            "Posicion": "Mediocampista",
+            "Edad": "19",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "Holanda_Jugador_2",
+            "Seleccion": "Holanda",
+            "Posicion": "Portero",
+            "Edad": "30",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "Holanda_Jugador_3",
+            "Seleccion": "Holanda",
+            "Posicion": "Delantero",
+            "Edad": "27",
+            "Club": "Inter"
+        },
+        {
+            "Nombre": "Holanda_Jugador_4",
+            "Seleccion": "Holanda",
+            "Posicion": "Mediocampista",
+            "Edad": "27",
+            "Club": "Chelsea"
+        },
+        {
+            "Nombre": "Holanda_Jugador_5",
+            "Seleccion": "Holanda",
+            "Posicion": "Portero",
+            "Edad": "31",
+            "Club": "Bayern"
+        },
+        {
+            "Nombre": "Holanda_Jugador_6",
+            "Seleccion": "Holanda",
+            "Posicion": "Mediocampista",
+            "Edad": "30",
+            "Club": "Real Madrid"
+        },
+        {
+            "Nombre": "Holanda_Jugador_7",
+            "Seleccion": "Holanda",
+            "Posicion": "Delantero",
+            "Edad": "25",
+            "Club": "Bayern"
+        },
+        {
+            "Nombre": "Holanda_Jugador_8",
+            "Seleccion": "Holanda",
+            "Posicion": "Defensa",
+            "Edad": "35",
+            "Club": "Inter"
+        },
+        {
+            "Nombre": "Holanda_Jugador_9",
+            "Seleccion": "Holanda",
+            "Posicion": "Portero",
+            "Edad": "29",
+            "Club": "PSG"
+        }
+    ]
+}
